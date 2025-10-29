@@ -1,0 +1,9 @@
+{
+	"name": "nikadfproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ef178411-895c-464e-8497-da5f7adb07ba",
+		"tenantId": "d7d671b6-0585-4d2b-a874-5c78e05f1543"
+	}
+}
